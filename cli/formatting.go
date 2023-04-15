@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"text/tabwriter"
 
-	eos "github.com/eoscanada/eos-go"
 	"github.com/ryanuber/columnize"
+	eos "github.com/sebastianmontero/eos-go"
 )
 
 const indentPadding = "      "

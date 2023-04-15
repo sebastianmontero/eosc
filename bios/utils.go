@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/sebastianmontero/eos-go"
 	"gopkg.in/olivere/elastic.v3/backoff"
 )
 

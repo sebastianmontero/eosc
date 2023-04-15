@@ -13,14 +13,14 @@
 安装
 ----
 
-1. 安装包下载地址 https://github.com/eoscanada/eosc/releases
+1. 安装包下载地址 https://github.com/sebastianmontero/eosc/releases
 
 **或**
 
 2. 基于源码进行构建:
 
 ```bash
-go get -u -v github.com/eoscanada/eosc/eosc
+go get -u -v github.com/sebastianmontero/eosc/eosc
 ```
 
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/eoscanada/eosc/cli"
 	"github.com/pkg/errors"
+	"github.com/sebastianmontero/eosc/cli"
 )
 
 type SecretBoxer interface {

@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"os"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eosc/analysis"
+	eos "github.com/sebastianmontero/eos-go"
+	"github.com/sebastianmontero/eosc/analysis"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

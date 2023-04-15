@@ -7,8 +7,8 @@ import (
 
 	"github.com/ryanuber/columnize"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eosc/cli"
+	eos "github.com/sebastianmontero/eos-go"
+	"github.com/sebastianmontero/eosc/cli"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

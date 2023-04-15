@@ -10,7 +10,7 @@
 在下面的步骤中你会用到与这个账号私钥相对应的公钥。
     
 1. [在线计算机]从`eosc`发布页中下载的最新版本
-   https://github.com/eoscanada/eosc/releases
+   https://github.com/sebastianmontero/eosc/releases
    选择与您的密闭计算机操作系统兼容的版本：Windows，Mac或Linux
    （最好你能用占用空间小的Linux版）。
 

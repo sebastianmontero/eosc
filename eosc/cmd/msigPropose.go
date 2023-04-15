@@ -11,8 +11,8 @@ import (
 	"sort"
 	"strings"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/msig"
+	eos "github.com/sebastianmontero/eos-go"
+	"github.com/sebastianmontero/eos-go/msig"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

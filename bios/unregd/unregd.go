@@ -1,6 +1,6 @@
 package unregd
 
-import "github.com/eoscanada/eos-go"
+import "github.com/sebastianmontero/eos-go"
 
 func NewAdd(ethAccount string, balance eos.Asset) *eos.Action {
 	action := &eos.Action{

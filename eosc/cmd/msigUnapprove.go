@@ -5,7 +5,7 @@ package cmd
 import (
 	"context"
 
-	"github.com/eoscanada/eos-go/msig"
+	"github.com/sebastianmontero/eos-go/msig"
 	"github.com/spf13/cobra"
 )
 

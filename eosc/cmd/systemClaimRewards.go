@@ -5,7 +5,7 @@ package cmd
 import (
 	"context"
 
-	"github.com/eoscanada/eos-go/system"
+	"github.com/sebastianmontero/eos-go/system"
 	"github.com/spf13/cobra"
 )
 

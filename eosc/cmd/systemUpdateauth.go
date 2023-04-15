@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/system"
+	"github.com/sebastianmontero/eos-go"
+	"github.com/sebastianmontero/eos-go/ecc"
+	"github.com/sebastianmontero/eos-go/system"
 	"github.com/spf13/cobra"
 )
 

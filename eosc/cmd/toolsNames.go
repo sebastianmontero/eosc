@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	eos "github.com/eoscanada/eos-go"
 	"github.com/ryanuber/columnize"
+	eos "github.com/sebastianmontero/eos-go"
 	"github.com/spf13/cobra"
 )
 
